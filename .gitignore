@@ -1,2 +1,4 @@
 node_modules
-.env
+#He decidido pasarlo a privado
+#y pasar .env al github 
+#.env
